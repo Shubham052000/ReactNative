@@ -65,7 +65,7 @@ export default function App() {
 
   return (
     <View>
-      <Text>App</Text>
+      <Text>Hello pswd </Text>
     </View>
   );
 }
